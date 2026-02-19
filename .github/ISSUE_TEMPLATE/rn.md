@@ -1,37 +1,28 @@
----
-name: "Requisito Funcional (RF)"
-about: Descrever uma funcionalidade que o sistema deve possuir
-title: "RFXX — "
-labels: ["RF"]
+name: "Regra de Negócio (RN)"
+about: Descrever uma regra obrigatória que afeta o comportamento do sistema
+title: "RNXX — "
+labels: ["Regra-de-Negócio"]
 ---
 
-# 📝 Requisito Funcional — RFXX  
-(Altere RFXX para o número apropriado)
+# 📘 Regra de Negócio — RNXX  
+(Altere RNXX para o número apropriado)
 
-## 🎯 Descrição
-Descreva claramente o que o sistema deve fazer.
+## 📝 Descrição
+Descreva a regra de forma objetiva.
 
 Exemplo:  
-_O sistema deve permitir que o usuário realize login com e-mail e senha._
+_Usuários inativos por mais de 90 dias devem ser bloqueados automaticamente._
 
 ---
 
-## 🎯 Objetivo de Negócio
-Por que esse requisito existe?
+## 🎯 Justificativa
+Por que essa regra existe?
 
 ---
 
-## ✔ Critérios de Aceitação
-- [ ] Critério 1  
-- [ ] Critério 2  
-- [ ] Critério 3  
+## 🔗 Requisitos Relacionados
+- RFXX  
+- RNFXX  
+- UCXX  
 
 ---
-
-## 🔗 Casos de Uso Relacionados
-- UCXX — Nome do caso de uso
-
----
-
-## 📌 Observações
-(Se necessário)
